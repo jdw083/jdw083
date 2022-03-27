@@ -17,7 +17,7 @@ Things you will see in jdw083:
   - MySQL
   - etc.
 
-Lastly, I will be showcasing my work in **jdw083/github.io**, which published at https://jdw083.github.io/. Feel very free to check it out or leave a comment here. 
+Lastly, I will be showcasing my work in **jdw083/github.io**, which is published at https://jdw083.github.io/. Feel very free to check it out or leave a comment here. 
 
 Reach me at the following contacts:
 
