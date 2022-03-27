@@ -4,7 +4,7 @@ I have had this GitHub for a while and have decided to repurpose it for projects
 
 Feel free to check it out.
 
-The main repo is jdw083/jdw083, which is what I am working on mainly, and is the main development area. The CodeCademy project was a repo from uni. 
+The main repo is **jdw083/Portfolio**, which is what I am working on mainly, and is the main development area. The CodeCademy project was a repo from uni. 
 
 Things you will see in jdw083:
   - PHP
@@ -17,7 +17,7 @@ Things you will see in jdw083:
   - MySQL
   - etc.
 
-Lastly, I will be showcasing my work in jdw083/github.io, which published at https://jdw083.github.io/. Feel very free to check it out or leave a comment here. 
+Lastly, I will be showcasing my work in **jdw083/github.io**, which published at https://jdw083.github.io/. Feel very free to check it out or leave a comment here. 
 
 Reach me at the following contacts:
 
