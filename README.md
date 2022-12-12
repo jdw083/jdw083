@@ -15,6 +15,7 @@ Things you will see in jdw083:
   - JSON
   - Node
   - MySQL
+  - Python
   - etc.
 
 Lastly, I will be showcasing my work in **jdw083/github.io**, which is published at https://jdw083.github.io/. Feel very free to check it out or leave a comment here. 
